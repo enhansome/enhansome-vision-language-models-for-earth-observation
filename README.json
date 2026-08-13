@@ -1,0 +1,104 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Foundation Models"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Image Captioning"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Text-Image Retrieval"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Visual Grounding"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Visual Question Answering"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Vision-Language Remote Sensing Datasets"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "awesome-remote-sensing-vision-language-models",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-04-27T13:13:12Z",
+            "owner": "lzw-lzw",
+            "repo": "awesome-remote-sensing-vision-language-models",
+            "stars": 195
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-RSVLM",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-05-13T11:06:59Z",
+            "owner": "om-ai-lab",
+            "repo": "awesome-RSVLM",
+            "stars": 143
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-remote-image-captioning",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-23T17:38:51Z",
+            "owner": "iOPENCap",
+            "repo": "awesome-remote-image-captioning",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ConfigILM Library",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-24T10:04:05Z",
+            "owner": "lhackel-tub",
+            "repo": "ConfigILM",
+            "stars": 45
+          }
+        }
+      ],
+      "title": "Related Repositories & Libraries"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:26:25.249Z",
+    "original_repository": "geoaigroup/awesome-vision-language-models-for-earth-observation",
+    "original_repository_sha": "018fe88618b4ba97ee644edd8eebae5823ceac7d",
+    "enhanced_repository": "enhansome/enhansome-vision-language-models-for-earth-observation",
+    "enhanced_repository_description": null,
+    "title": "Awesome A curated list of Visual Language Models papers and resources for Earth Observation (VLM4EO) with stars"
+  }
+}
