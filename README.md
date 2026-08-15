@@ -2,7 +2,7 @@
 
 This list is created and maintained by [Ali Koteich](https://github.com/alikoteich) and [Hasan Moughnieh](https://geogroup.ai/author/hasan-moughnieh/) from the GEOspatial Artificial Intelligence ([GEOAI](https://geogroup.ai/)) research group at the National Center for Remote Sensing - CNRS, Lebanon.
 
-We encourage you to contribute to this project according to the following [guidelines](https://github.com/sindresorhus/awesome/blob/main/contributing.md) ⭐ 495,786 | 🐛 100 | 📅 2026-06-30.
+We encourage you to contribute to this project according to the following [guidelines](https://github.com/sindresorhus/awesome/blob/main/contributing.md) ⭐ 496,140 | 🐛 100 | 📅 2026-06-30.
 
 \---**If you find this repository useful, please consider giving it a ⭐**
 
@@ -182,4 +182,4 @@ We encourage you to contribute to this project according to the following [guide
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
