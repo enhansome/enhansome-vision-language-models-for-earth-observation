@@ -1,37 +1,7 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Foundation Models"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Image Captioning"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Text-Image Retrieval"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Visual Grounding"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Visual Question Answering"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Vision-Language Remote Sensing Datasets"
-    },
-    {
-      "description": "",
+      "description": "---Stay tuned for continuous updates and improvements! 🚀",
       "items": [
         {
           "node_type": "item",
@@ -40,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 641034148,
             "language": null,
             "last_commit": "2024-04-27T13:13:12Z",
             "owner": "lzw-lzw",
@@ -54,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 656522239,
             "language": null,
             "last_commit": "2024-05-13T11:06:59Z",
             "owner": "om-ai-lab",
@@ -68,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 637623251,
             "language": "Python",
             "last_commit": "2026-08-16T16:33:14Z",
             "owner": "iOPENCap",
@@ -82,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 595600173,
             "language": "Python",
             "last_commit": "2025-04-24T10:04:05Z",
             "owner": "lhackel-tub",
@@ -94,8 +68,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T23:48:02.885Z",
+    "last_updated": "2026-08-19T12:57:55.779Z",
     "original_repository": "geoaigroup/awesome-vision-language-models-for-earth-observation",
+    "original_repository_id": 655796940,
     "original_repository_sha": "018fe88618b4ba97ee644edd8eebae5823ceac7d",
     "enhanced_repository": "enhansome/enhansome-vision-language-models-for-earth-observation",
     "enhanced_repository_description": null,
