@@ -2,7 +2,7 @@
 
 This list is created and maintained by [Ali Koteich](https://github.com/alikoteich) and [Hasan Moughnieh](https://geogroup.ai/author/hasan-moughnieh/) from the GEOspatial Artificial Intelligence ([GEOAI](https://geogroup.ai/)) research group at the National Center for Remote Sensing - CNRS, Lebanon.
 
-We encourage you to contribute to this project according to the following [guidelines](https://github.com/sindresorhus/awesome/blob/main/contributing.md) ⭐ 497,670 | 🐛 102 | 📅 2026-08-18.
+We encourage you to contribute to this project according to the following [guidelines](https://github.com/sindresorhus/awesome/blob/main/contributing.md) ⭐ 497,824 | 🐛 102 | 📅 2026-08-18.
 
 \---**If you find this repository useful, please consider giving it a ⭐**
 
@@ -25,9 +25,9 @@ We encourage you to contribute to this project according to the following [guide
 | 2024 | EarthGPT: A Universal Multi-modal Large Language Model for Multi-sensor Image Comprehension in Remote Sensing Domain | [paper](https://arxiv.org/abs/2401.16822)        |                                                                                                             |       |
 | 2024 | RemoteCLIP: A Vision Language Foundation Model for Remote Sensing                                                    | [paper](https://arxiv.org/abs/2306.11029)        | [code](https://github.com/ChenDelong1999/RemoteCLIP) ⭐ 585 \| 🐛 23 \| 🌐 Jupyter Notebook \| 📅 2024-06-27 |       |
 | 2024 | Remote Sensing ChatGPT: Solving Remote Sensing Tasks with ChatGPT and Visual Models                                  | [paper](https://arxiv.org/abs/2401.09083)        | [code](https://github.com/HaonanGuo/Remote-Sensing-ChatGPT) ⭐ 242 \| 🐛 5 \| 🌐 Python \| 📅 2024-03-27     |       |
-| 2024 | SkyEyeGPT: Unifying Remote Sensing Vision-Language Tasks via Instruction Tuning with Large Language Model            | [paper](https://arxiv.org/abs/2401.09712)        | [code](https://github.com/ZhanYang-nwpu/SkyEyeGPT) ⭐ 138 \| 🐛 7 \| 📅 2025-12-01                           |       |
+| 2024 | SkyEyeGPT: Unifying Remote Sensing Vision-Language Tasks via Instruction Tuning with Large Language Model            | [paper](https://arxiv.org/abs/2401.09712)        | [code](https://github.com/ZhanYang-nwpu/SkyEyeGPT) ⭐ 139 \| 🐛 7 \| 📅 2025-12-01                           |       |
 | 2024 | VHM: Versatile and Honest Vision Language Model for Remote Sensing Image Analysis                                    | [paper](https://arxiv.org/abs/2403.20213)        | [code](https://github.com/opendatalab/VHM) ⭐ 124 \| 🐛 1 \| 🌐 Python \| 📅 2026-03-25                      |       |
-| 2023 | GeoChat: Grounded Large Vision-Language Model for Remote Sensing                                                     | [paper](https://arxiv.org/abs/2311.15826)        | [code](https://github.com/mbzuai-oryx/geochat) ⭐ 741 \| 🐛 47 \| 🌐 Python \| 📅 2024-11-28                 |       |
+| 2023 | GeoChat: Grounded Large Vision-Language Model for Remote Sensing                                                     | [paper](https://arxiv.org/abs/2311.15826)        | [code](https://github.com/mbzuai-oryx/geochat) ⭐ 742 \| 🐛 47 \| 🌐 Python \| 📅 2024-11-28                 |       |
 | 2023 | Remote Sensing Vision-Language Foundation Models without Annotations via Ground Remote Alignment                     | [paper](https://export.arxiv.org/abs/2312.06960) |                                                                                                             |       |
 
 ## Image Captioning
@@ -171,7 +171,7 @@ We encourage you to contribute to this project according to the following [guide
 
 * [awesome-remote-sensing-vision-language-models](https://github.com/lzw-lzw/awesome-remote-sensing-vision-language-models) ⭐ 195 | 🐛 1 | 📅 2024-04-27
 * [awesome-RSVLM](https://github.com/om-ai-lab/awesome-RSVLM) ⭐ 143 | 🐛 1 | 📅 2024-05-13
-* [awesome-remote-image-captioning](https://github.com/iOPENCap/awesome-remote-image-captioning) ⭐ 124 | 🐛 0 | 🌐 Python | 📅 2026-08-16
+* [awesome-remote-image-captioning](https://github.com/iOPENCap/awesome-remote-image-captioning) ⭐ 124 | 🐛 0 | 🌐 Python | 📅 2026-08-19
 * [ConfigILM Library](https://github.com/lhackel-tub/ConfigILM) ⭐ 45 | 🐛 9 | 🌐 Python | 📅 2025-04-24
 
  <!-- 
