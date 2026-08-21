@@ -2,7 +2,7 @@
 
 This list is created and maintained by [Ali Koteich](https://github.com/alikoteich) and [Hasan Moughnieh](https://geogroup.ai/author/hasan-moughnieh/) from the GEOspatial Artificial Intelligence ([GEOAI](https://geogroup.ai/)) research group at the National Center for Remote Sensing - CNRS, Lebanon.
 
-We encourage you to contribute to this project according to the following [guidelines](https://github.com/sindresorhus/awesome/blob/main/contributing.md) ⭐ 498,231 | 🐛 105 | 📅 2026-08-18.
+We encourage you to contribute to this project according to the following [guidelines](https://github.com/sindresorhus/awesome/blob/main/contributing.md) ⭐ 498,646 | 🐛 105 | 📅 2026-08-21.
 
 \---**If you find this repository useful, please consider giving it a ⭐**
 
@@ -23,7 +23,7 @@ We encourage you to contribute to this project according to the following [guide
 | ---- | -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ | ----------------------------------------------------------------------------------------------------------- | ----- |
 | 2025 | Beyond the Visible: Multispectral Vision-Language Learning for Earth Observation                                     | [paper](https://arxiv.org/abs/2503.15969)        |                                                                                                             |       |
 | 2024 | EarthGPT: A Universal Multi-modal Large Language Model for Multi-sensor Image Comprehension in Remote Sensing Domain | [paper](https://arxiv.org/abs/2401.16822)        |                                                                                                             |       |
-| 2024 | RemoteCLIP: A Vision Language Foundation Model for Remote Sensing                                                    | [paper](https://arxiv.org/abs/2306.11029)        | [code](https://github.com/ChenDelong1999/RemoteCLIP) ⭐ 586 \| 🐛 23 \| 🌐 Jupyter Notebook \| 📅 2024-06-27 |       |
+| 2024 | RemoteCLIP: A Vision Language Foundation Model for Remote Sensing                                                    | [paper](https://arxiv.org/abs/2306.11029)        | [code](https://github.com/ChenDelong1999/RemoteCLIP) ⭐ 587 \| 🐛 23 \| 🌐 Jupyter Notebook \| 📅 2024-06-27 |       |
 | 2024 | Remote Sensing ChatGPT: Solving Remote Sensing Tasks with ChatGPT and Visual Models                                  | [paper](https://arxiv.org/abs/2401.09083)        | [code](https://github.com/HaonanGuo/Remote-Sensing-ChatGPT) ⭐ 242 \| 🐛 5 \| 🌐 Python \| 📅 2024-03-27     |       |
 | 2024 | SkyEyeGPT: Unifying Remote Sensing Vision-Language Tasks via Instruction Tuning with Large Language Model            | [paper](https://arxiv.org/abs/2401.09712)        | [code](https://github.com/ZhanYang-nwpu/SkyEyeGPT) ⭐ 139 \| 🐛 7 \| 📅 2025-12-01                           |       |
 | 2024 | VHM: Versatile and Honest Vision Language Model for Remote Sensing Image Analysis                                    | [paper](https://arxiv.org/abs/2403.20213)        | [code](https://github.com/opendatalab/VHM) ⭐ 124 \| 🐛 1 \| 🌐 Python \| 📅 2026-03-25                      |       |
@@ -69,7 +69,7 @@ We encourage you to contribute to this project according to the following [guide
 
 | Year | Title                                                                                                            | Paper                                                                        | Code                                                                                                     | Venue                                               |
 | ---- | ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
-| 2024 | Composed Image Retrieval for Remote Sensing                                                                      | [paper](https://arxiv.org/abs/2405.15587)                                    | [code](https://github.com/billpsomas/rscir) ⭐ 86 \| 🐛 1 \| 🌐 Python \| 📅 2026-04-23                   |                                                     |
+| 2024 | Composed Image Retrieval for Remote Sensing                                                                      | [paper](https://arxiv.org/abs/2405.15587)                                    | [code](https://github.com/billpsomas/rscir) ⭐ 87 \| 🐛 1 \| 🌐 Python \| 📅 2026-04-23                   |                                                     |
 | 2024 | Multi-Spectral Remote Sensing Image Retrieval using Geospatial Foundation Models                                 | [paper](https://arxiv.org/abs/2403.02059)                                    | [code](https://github.com/IBM/remote-sensing-image-retrieval) ⭐ 52 \| 🐛 3 \| 🌐 Python \| 📅 2025-09-18 |                                                     |
 | 2024 | Transcending Fusion: A Multi-Scale Alignment Method for Remote Sensing Image-Text Retrieval                      | [paper](https://arxiv.org/abs/2405.18959)                                    | [code](https://github.com/yr666666/MSA)                                                                  |                                                     |
 | 2023 | A Prior Instruction Representation Framework for Remote Sensing Image-text Retrieval                             | [paper](https://dl.acm.org/doi/10.1145/3581783.3612374)                      | [code](https://github.com/Zjut-MultimediaPlus/PIR-pytorch) ⭐ 15 \| 🐛 1 \| 🌐 Python \| 📅 2023-12-08    | ACM MM 2023 (Oral)                                  |
@@ -171,7 +171,7 @@ We encourage you to contribute to this project according to the following [guide
 
 * [awesome-remote-sensing-vision-language-models](https://github.com/lzw-lzw/awesome-remote-sensing-vision-language-models) ⭐ 195 | 🐛 1 | 📅 2024-04-27
 * [awesome-RSVLM](https://github.com/om-ai-lab/awesome-RSVLM) ⭐ 143 | 🐛 1 | 📅 2024-05-13
-* [awesome-remote-image-captioning](https://github.com/iOPENCap/awesome-remote-image-captioning) ⭐ 124 | 🐛 0 | 🌐 Python | 📅 2026-08-19
+* [awesome-remote-image-captioning](https://github.com/iOPENCap/awesome-remote-image-captioning) ⭐ 124 | 🐛 0 | 🌐 Python | 📅 2026-08-21
 * [ConfigILM Library](https://github.com/lhackel-tub/ConfigILM) ⭐ 45 | 🐛 9 | 🌐 Python | 📅 2025-04-24
 
  <!-- 
@@ -182,4 +182,4 @@ We encourage you to contribute to this project according to the following [guide
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._

@@ -42,7 +42,7 @@
             "archived": false,
             "id": 637623251,
             "language": "Python",
-            "last_commit": "2026-08-19T16:38:14Z",
+            "last_commit": "2026-08-21T16:41:29Z",
             "owner": "iOPENCap",
             "repo": "awesome-remote-image-captioning",
             "stars": 124
@@ -68,7 +68,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T23:51:15.549Z",
+    "last_updated": "2026-08-21T23:49:42.410Z",
     "original_repository": "geoaigroup/awesome-vision-language-models-for-earth-observation",
     "original_repository_id": 655796940,
     "original_repository_sha": "018fe88618b4ba97ee644edd8eebae5823ceac7d",
