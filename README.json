@@ -1,6 +1,612 @@
 {
   "items": [
     {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "2024",
+          "description": "RemoteCLIP: A Vision Language Foundation Model for Remote Sensing paper code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 666706303,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-06-27T12:07:35Z",
+            "owner": "ChenDelong1999",
+            "repo": "RemoteCLIP",
+            "stars": 587
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024",
+          "description": "Remote Sensing ChatGPT: Solving Remote Sensing Tasks with ChatGPT and Visual Models paper code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 682001807,
+            "language": "Python",
+            "last_commit": "2024-03-27T01:30:54Z",
+            "owner": "HaonanGuo",
+            "repo": "Remote-Sensing-ChatGPT",
+            "stars": 242
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024",
+          "description": "SkyEyeGPT: Unifying Remote Sensing Vision-Language Tasks via Instruction Tuning with Large Language Model paper code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 743375310,
+            "language": null,
+            "last_commit": "2025-12-01T14:00:45Z",
+            "owner": "ZhanYang-nwpu",
+            "repo": "SkyEyeGPT",
+            "stars": 139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024",
+          "description": "VHM: Versatile and Honest Vision Language Model for Remote Sensing Image Analysis paper code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 779227122,
+            "language": "Python",
+            "last_commit": "2026-03-25T07:54:01Z",
+            "owner": "opendatalab",
+            "repo": "VHM",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "GeoChat: Grounded Large Vision-Language Model for Remote Sensing paper code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 722562594,
+            "language": "Python",
+            "last_commit": "2024-11-28T12:05:13Z",
+            "owner": "mbzuai-oryx",
+            "repo": "GeoChat",
+            "stars": 743
+          }
+        }
+      ],
+      "title": "Foundation Models"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "2024",
+          "description": "RSCaMa: Remote Sensing Image Change Captioning with State Space Model paper code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 793847727,
+            "language": "Python",
+            "last_commit": "2025-10-01T14:22:35Z",
+            "owner": "Chen-Yang-Liu",
+            "repo": "RSCaMa",
+            "stars": 81
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "Generating the captions for remote sensing images: A spatial-channel attention based memory-guided transformer approach paper code Engineering Applications of Artificial Intelligence",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 491902770,
+            "language": "Python",
+            "last_commit": "2023-08-10T14:16:00Z",
+            "owner": "GauravGajbhiye",
+            "repo": "SCAMET_RSIC",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "NWPU-Captions Dataset and MLCA-Net for Remote Sensing Image Captioning paper code IEEE TGRS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 486622072,
+            "language": null,
+            "last_commit": "2022-12-07T12:42:25Z",
+            "owner": "HaiyanHuang98",
+            "repo": "NWPU-Captions",
+            "stars": 18
+          }
+        }
+      ],
+      "title": "Image Captioning"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "2024",
+          "description": "Composed Image Retrieval for Remote Sensing paper code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 738206892,
+            "language": "Python",
+            "last_commit": "2026-04-23T13:11:56Z",
+            "owner": "billpsomas",
+            "repo": "rscir",
+            "stars": 87
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024",
+          "description": "Multi-Spectral Remote Sensing Image Retrieval using Geospatial Foundation Models paper code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 766969536,
+            "language": "Python",
+            "last_commit": "2025-09-18T01:10:49Z",
+            "owner": "IBM",
+            "repo": "remote-sensing-image-retrieval",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "A Prior Instruction Representation Framework for Remote Sensing Image-text Retrieval paper code ACM MM 2023 (Oral)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 678421332,
+            "language": "Python",
+            "last_commit": "2023-12-08T04:41:17Z",
+            "owner": "Zjut-MultimediaPlus",
+            "repo": "PIR-pytorch",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "Hypersphere-Based Remote Sensing Cross-Modal Text–Image Retrieval via Curriculum Learning paper code IEEE TGRS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 623272303,
+            "language": "Python",
+            "last_commit": "2024-08-10T03:36:39Z",
+            "owner": "ZhangWeihang99",
+            "repo": "HVSA",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "Reducing Semantic Confusion: Scene-aware Aggregation Network for Remote Sensing Cross-modal Retrieval paper code ICMR'23",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 702797948,
+            "language": "Python",
+            "last_commit": "2024-01-24T01:39:25Z",
+            "owner": "kinshingpoon",
+            "repo": "SWAN-pytorch",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "A Lightweight Multi-Scale Crossmodal Text-Image Retrieval Method in Remote Sensing paper code IEEE TGRS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 411503706,
+            "language": "Python",
+            "last_commit": "2022-06-26T06:01:12Z",
+            "owner": "xiaoyuan1996",
+            "repo": "retrievalSystem",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "MCRN: A Multi-source Cross-modal Retrieval Network for remote sensing paper code Int J Appl Earth Obs Geoinf",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 467080708,
+            "language": "Python",
+            "last_commit": "2024-01-08T12:21:16Z",
+            "owner": "xiaoyuan1996",
+            "repo": "MCRN",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "Multisource Data Reconstruction-Based Deep Unsupervised Hashing for Unisource Remote Sensing Image Retrieval Paper code IEEE TGRS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 569674009,
+            "language": "Python",
+            "last_commit": "2023-04-11T14:22:19Z",
+            "owner": "sunyuxi",
+            "repo": "MrHash",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "Remote Sensing Cross-Modal Text-Image Retrieval Based on Global and Local Information paper code IEEE TGRS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 402624596,
+            "language": "Python",
+            "last_commit": "2023-10-25T11:44:34Z",
+            "owner": "xiaoyuan1996",
+            "repo": "GaLR",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021",
+          "description": "Exploring a Fine-Grained Multiscale Method for Cross-Modal Remote Sensing Image Retrieval paper code IEEE TGRS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 200156580,
+            "language": "Python",
+            "last_commit": "2023-10-25T11:43:43Z",
+            "owner": "xiaoyuan1996",
+            "repo": "AMFMN",
+            "stars": 217
+          }
+        }
+      ],
+      "title": "Text-Image Retrieval"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "2024",
+          "description": "GeoGround: A Unified Large Vision-Language Model. for Remote Sensing Visual Grounding paper code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 889290077,
+            "language": null,
+            "last_commit": "2025-05-10T15:59:01Z",
+            "owner": "VisionXLab",
+            "repo": "GeoGround",
+            "stars": 94
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "LaLGA: Multi-Scale Language-Aware Visual Grounding on Remote Sensing Data paper code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 669362473,
+            "language": "Python",
+            "last_commit": "2025-06-10T13:55:56Z",
+            "owner": "like413",
+            "repo": "OPT-RSVG",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "Text2Seg: Remote Sensing Image Semantic Segmentation via Text-Guided Visual Foundation Models paper code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 630303219,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-01-24T03:32:47Z",
+            "owner": "zhangjielu321",
+            "repo": "Text2Seg",
+            "stars": 132
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "RSVG: Exploring Data and Models for Visual Grounding on Remote Sensing Data paper code IEEE TGRS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 535246723,
+            "language": "Python",
+            "last_commit": "2025-12-10T01:54:38Z",
+            "owner": "ZhanYang-nwpu",
+            "repo": "RSVG-pytorch",
+            "stars": 178
+          }
+        }
+      ],
+      "title": "Visual Grounding"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "Multistep Question-Driven Visual Question Answering for Remote Sensing paper code IEEE TGRS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 580699441,
+            "language": "Python",
+            "last_commit": "2022-12-21T09:21:16Z",
+            "owner": "MeimeiZhang-data",
+            "repo": "MQVQA",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "RSGPT: A Remote Sensing Vision Language Model and Benchmark paper code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 670047275,
+            "language": "Python",
+            "last_commit": "2026-05-27T08:02:38Z",
+            "owner": "Lavender105",
+            "repo": "RSGPT",
+            "stars": 150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "RSAdapter: Adapting Multimodal Models for Remote Sensing Visual Question Answering paper code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 880534443,
+            "language": null,
+            "last_commit": "2024-10-25T00:17:39Z",
+            "owner": "Y-D-Wang",
+            "repo": "RSAdapter",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "Change Detection Meets Visual Question Answering paper code IEEE TGRS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 529974423,
+            "language": null,
+            "last_commit": "2023-02-17T09:34:50Z",
+            "owner": "YZHJessica",
+            "repo": "CDVQA",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "From Easy to Hard: Learning Language-guided Curriculum for Visual Question Answering on Remote Sensing Data paper code IEEE TGRS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 600134587,
+            "language": "Python",
+            "last_commit": "2023-02-10T18:21:31Z",
+            "owner": "zhu-xlab",
+            "repo": "VQA-easy2hard",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "Mutual Attention Inception Network for Remote Sensing Visual Question Answering paper code IEEE TGRS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 314225051,
+            "language": null,
+            "last_commit": "2022-11-14T02:16:23Z",
+            "owner": "spectralpublic",
+            "repo": "RSIVQA",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021",
+          "description": "Mutual Attention Inception Network for Remote Sensing Visual Question Answering paper code IEEE TGRS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 314225051,
+            "language": null,
+            "last_commit": "2022-11-14T02:16:23Z",
+            "owner": "spectralpublic",
+            "repo": "RSIVQA",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021",
+          "description": "RSVQA meets BigEarthNet: a new, large-scale, visual question answering dataset for remote sensing paper code IEEE IGARSS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 468671845,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-03-11T08:47:51Z",
+            "owner": "syvlo",
+            "repo": "RSVQAxBEN",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2020",
+          "description": "RSVQA: Visual Question Answering for Remote Sensing Data paper code IEEE TGRS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 468669101,
+            "language": "Python",
+            "last_commit": "2023-03-13T08:18:23Z",
+            "owner": "syvlo",
+            "repo": "RSVQA",
+            "stars": 21
+          }
+        }
+      ],
+      "title": "Visual Question Answering"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "RS5M: A Large Scale Vision-Language Dataset for Remote Sensing Vision-Language Foundation Model",
+          "description": "Link Paper Link Size: 5 million remote sensing images with English descriptions Resolution : 256 x 256 Platforms: 11 publicly available image-text paired dataset",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 655027902,
+            "language": "Python",
+            "last_commit": "2025-03-17T03:05:40Z",
+            "owner": "om-ai-lab",
+            "repo": "RS5M",
+            "stars": 314
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SkyScript: A Large and Semantically Diverse Vision-Language Dataset for Remote Sensing",
+          "description": "Link paper Link Size : 5.2 million remote sensing image-text pairs in total, covering more than 29K distinct semantic tags",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 733467166,
+            "language": "Python",
+            "last_commit": "2024-12-10T02:17:16Z",
+            "owner": "wangzhecheng",
+            "repo": "SkyScript",
+            "stars": 210
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Remote Sensing Image Visual Question Answering (RSIVQA)",
+          "description": "Link Paper Link Size: 37,264 images and 111,134 image-question-answer triplets A small part of RSIVQA is annotated by human. Others are automatically generated using existing scene classification datasets and object detection datasetsUse: Remote Sensing Visual Question Answering",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 314225051,
+            "language": null,
+            "last_commit": "2022-11-14T02:16:23Z",
+            "owner": "spectralpublic",
+            "repo": "RSIVQA",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Change Detection-Based Visual Question Answering Dataset",
+          "description": "Link Paper Link Size: 2,968 pairs of multitemporal images and more than 122,000 question–answer pairs Classes: 6 Resolution : 512×512 pixels Platforms: It is based on semantic change detection dataset (SECOND)Use: Remote Sensing Visual Question Answering",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 529974423,
+            "language": null,
+            "last_commit": "2023-02-17T09:34:50Z",
+            "owner": "YZHJessica",
+            "repo": "CDVQA",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Remote Sensing Image Captioning Dataset (RSICap)",
+          "description": "link Paper Link RSICap comprises 2,585 human-annotated captions with rich and high-quality information This dataset offers detailed descriptions for each image, encompassing scene descriptions (e.g., residential area, airport, or farmland) as well as object information (e.g., color, shape, quantity, absolute position, etc)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 670047275,
+            "language": "Python",
+            "last_commit": "2026-05-27T08:02:38Z",
+            "owner": "Lavender105",
+            "repo": "RSGPT",
+            "stars": 150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Remote Sensing Image Captioning Evaluation Dataset (RSIEval)",
+          "description": "link Paper Link 100 human-annotated captions and 936 visual question-answer pairs with rich information and open-ended questions and answers. Can be used for Image Captioning and Visual Question-Answering tasks",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 670047275,
+            "language": "Python",
+            "last_commit": "2026-05-27T08:02:38Z",
+            "owner": "Lavender105",
+            "repo": "RSGPT",
+            "stars": 150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NWPU-Captions dataset",
+          "description": "images_Link, info_Link Paper Link Size: 31,500 images with 157,500 sentences Number of Classes: 45 Resolution : 256 x 256 pixels Platforms: based on NWPU-RESISC45 dataset Use: Remote Sensing Image Captioning",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 486622072,
+            "language": null,
+            "last_commit": "2022-12-07T12:42:25Z",
+            "owner": "HaiyanHuang98",
+            "repo": "NWPU-Captions",
+            "stars": 18
+          }
+        }
+      ],
+      "title": "Vision-Language Remote Sensing Datasets"
+    },
+    {
       "description": "---Stay tuned for continuous updates and improvements! 🚀",
       "items": [
         {
@@ -68,7 +674,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T23:46:59.562Z",
+    "last_updated": "2026-08-24T14:29:19.480Z",
     "original_repository": "geoaigroup/awesome-vision-language-models-for-earth-observation",
     "original_repository_id": 655796940,
     "original_repository_sha": "018fe88618b4ba97ee644edd8eebae5823ceac7d",
