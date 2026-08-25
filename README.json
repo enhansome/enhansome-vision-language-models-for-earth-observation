@@ -318,7 +318,7 @@
             "last_commit": "2025-06-10T13:55:56Z",
             "owner": "like413",
             "repo": "OPT-RSVG",
-            "stars": 56
+            "stars": 57
           }
         },
         {
@@ -348,7 +348,7 @@
             "last_commit": "2025-12-10T01:54:38Z",
             "owner": "ZhanYang-nwpu",
             "repo": "RSVG-pytorch",
-            "stars": 178
+            "stars": 179
           }
         }
       ],
@@ -674,7 +674,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:24:02.489Z",
+    "last_updated": "2026-08-25T23:49:57.961Z",
     "original_repository": "geoaigroup/awesome-vision-language-models-for-earth-observation",
     "original_repository_id": 655796940,
     "original_repository_sha": "018fe88618b4ba97ee644edd8eebae5823ceac7d",
