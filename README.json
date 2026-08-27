@@ -674,9 +674,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T04:38:34.520Z",
-    "original_repository": "geoaigroup/awesome-vision-language-models-for-earth-observation",
-    "original_repository_id": 655796940,
+    "last_updated": "2026-08-27T12:13:43.386Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 655796940,
+      "language": null,
+      "last_commit": "2025-03-23T20:48:14Z",
+      "owner": "geoaigroup",
+      "repo": "awesome-vision-language-models-for-earth-observation",
+      "stars": 259
+    },
     "original_repository_sha": "018fe88618b4ba97ee644edd8eebae5823ceac7d",
     "enhanced_repository": "enhansome/enhansome-vision-language-models-for-earth-observation",
     "enhanced_repository_description": null,
