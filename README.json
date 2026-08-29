@@ -10,12 +10,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🛰️ Official repository of paper \"RemoteCLIP: A Vision Language Foundation Model for Remote Sensing\" (IEEE TGRS)",
+            "homepage": "https://arxiv.org/abs/2306.11029",
             "id": 666706303,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2024-06-27T12:07:35Z",
+            "open_issues": 23,
             "owner": "ChenDelong1999",
             "repo": "RemoteCLIP",
-            "stars": 587
+            "stars": 587,
+            "topics": [
+              "contrastive-language-image-pretraining",
+              "remote-sensing",
+              "vision-language"
+            ]
           },
           "first_seen": "2026-08-28T07:01:21.942Z"
         },
@@ -26,12 +35,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chat with RS-ChatGPT and get the remote sensing interpretation results and the response!",
+            "homepage": null,
             "id": 682001807,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-03-27T01:30:54Z",
+            "open_issues": 5,
             "owner": "HaonanGuo",
             "repo": "Remote-Sensing-ChatGPT",
-            "stars": 242
+            "stars": 242,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:01:21.942Z"
         },
@@ -42,12 +56,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ISPRS2025] SkyEyeGPT: Unifying Remote Sensing Vision-Language Tasks via Instruction Tuning with Large Language Model",
+            "homepage": null,
             "id": 743375310,
             "language": null,
+            "license": null,
             "last_commit": "2025-12-01T14:00:45Z",
+            "open_issues": 7,
             "owner": "ZhanYang-nwpu",
             "repo": "SkyEyeGPT",
-            "stars": 139
+            "stars": 139,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:01:21.942Z"
         },
@@ -58,12 +77,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "VHM: Versatile and Honest Vision Language Model for Remote Sensing Image Analysis",
+            "homepage": null,
             "id": 779227122,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-25T07:54:01Z",
+            "open_issues": 1,
             "owner": "opendatalab",
             "repo": "VHM",
-            "stars": 124
+            "stars": 124,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:01:21.942Z"
         },
@@ -74,12 +98,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2024 🔥] GeoChat, the first grounded Large Vision Language Model for Remote Sensing",
+            "homepage": "https://mbzuai-oryx.github.io/GeoChat",
             "id": 722562594,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-11-28T12:05:13Z",
+            "open_issues": 47,
             "owner": "mbzuai-oryx",
             "repo": "GeoChat",
-            "stars": 744
+            "stars": 744,
+            "topics": [
+              "remote-sensing",
+              "vlm"
+            ]
           },
           "first_seen": "2026-08-28T07:01:21.942Z"
         }
@@ -96,12 +128,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[IEEE GRSL 2024 🔥] RSCaMa: Remote Sensing Image Change Captioning with State Space Model ",
+            "homepage": null,
             "id": 793847727,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-10-01T14:22:35Z",
+            "open_issues": 4,
             "owner": "Chen-Yang-Liu",
             "repo": "RSCaMa",
-            "stars": 81
+            "stars": 81,
+            "topics": [
+              "change-captioning",
+              "change-detection",
+              "mamba",
+              "remote-sensing"
+            ]
           },
           "first_seen": "2026-08-28T07:01:21.942Z"
         },
@@ -112,12 +154,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is tensorflow 2.2 based SCAMET framework for remote sensing image captioning.",
+            "homepage": null,
             "id": 491902770,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-08-10T14:16:00Z",
+            "open_issues": 2,
             "owner": "GauravGajbhiye",
             "repo": "SCAMET_RSIC",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:01:21.942Z"
         },
@@ -128,12 +175,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 486622072,
             "language": null,
+            "license": null,
             "last_commit": "2022-12-07T12:42:25Z",
+            "open_issues": 6,
             "owner": "HaiyanHuang98",
             "repo": "NWPU-Captions",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:01:21.942Z"
         }
@@ -150,12 +202,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[IGARSS 2024 ORAL] Official implementation of \"Composed Image Retrieval for Remote Sensing\".",
+            "homepage": "https://arxiv.org/abs/2405.15587",
             "id": 738206892,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-23T13:11:56Z",
+            "open_issues": 1,
             "owner": "billpsomas",
             "repo": "rscir",
-            "stars": 87
+            "stars": 87,
+            "topics": [
+              "composed-image-retrieval",
+              "computer-vision",
+              "dataset",
+              "deep-learning",
+              "earth-observation",
+              "image-retrieval",
+              "image-retrieval-system",
+              "remote-sensing",
+              "satellite",
+              "satellite-imagery",
+              "vision-language",
+              "vision-language-model",
+              "vision-transformer"
+            ]
           },
           "first_seen": "2026-08-28T07:01:21.942Z"
         },
@@ -166,12 +237,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Multi-Spectral Remote Sensing Image Retrieval using Geospatial Foundation Models",
+            "homepage": null,
             "id": 766969536,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-18T01:10:49Z",
+            "open_issues": 3,
             "owner": "IBM",
             "repo": "remote-sensing-image-retrieval",
-            "stars": 52
+            "stars": 52,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:01:21.942Z"
         },
@@ -182,12 +258,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Prior Instruction Representation Framework for Remote Sensing Image-text Retrieval (MM'23 Oral)",
+            "homepage": "https://dl.acm.org/doi/10.1145/3581783.3612374",
             "id": 678421332,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-12-08T04:41:17Z",
+            "open_issues": 1,
             "owner": "Zjut-MultimediaPlus",
             "repo": "PIR-pytorch",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "cross-model-retrieval",
+              "remote-sensing"
+            ]
           },
           "first_seen": "2026-08-28T07:01:21.942Z"
         },
@@ -198,12 +282,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official PyTorch implementation for Hypersphere-Based Remote Sensing Cross-Modal Text–Image Retrieval via Curriculum Learning.",
+            "homepage": null,
             "id": 623272303,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-08-10T03:36:39Z",
+            "open_issues": 3,
             "owner": "ZhangWeihang99",
             "repo": "HVSA",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:01:21.942Z"
         },
@@ -214,12 +303,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reducing Semantic Confusion: Scene-aware Aggregation Network for Remote Sensing Cross-modal Retrieval (ICMR'23 Oral)",
+            "homepage": null,
             "id": 702797948,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-01-24T01:39:25Z",
+            "open_issues": 0,
             "owner": "kinshingpoon",
             "repo": "SWAN-pytorch",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:01:21.942Z"
         },
@@ -230,12 +324,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The back-end of cross-modal retrieval system，wihch will contain services such as semantic location .etc",
+            "homepage": null,
             "id": 411503706,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-06-26T06:01:12Z",
+            "open_issues": 0,
             "owner": "xiaoyuan1996",
             "repo": "retrievalSystem",
-            "stars": 66
+            "stars": 66,
+            "topics": [
+              "remote-sensing",
+              "semantic-localization",
+              "text-image-retrieval"
+            ]
           },
           "first_seen": "2026-08-28T07:01:21.942Z"
         },
@@ -246,12 +349,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A multi-source cross-modal retrieval network",
+            "homepage": null,
             "id": 467080708,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-01-08T12:21:16Z",
+            "open_issues": 1,
             "owner": "xiaoyuan1996",
             "repo": "MCRN",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:01:21.942Z"
         },
@@ -262,12 +370,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 569674009,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-04-11T14:22:19Z",
+            "open_issues": 0,
             "owner": "sunyuxi",
             "repo": "MrHash",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:01:21.942Z"
         },
@@ -278,12 +391,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Source code of paper \"Remote Sensing Cross-Modal Image-Text Retrieval Based on Global and Local Information\"",
+            "homepage": null,
             "id": 402624596,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-10-25T11:44:34Z",
+            "open_issues": 1,
             "owner": "xiaoyuan1996",
             "repo": "GaLR",
-            "stars": 70
+            "stars": 70,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:01:21.942Z"
         },
@@ -294,12 +412,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The source code of AMFMN and the dataset RSITMD",
+            "homepage": null,
             "id": 200156580,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-10-25T11:43:43Z",
+            "open_issues": 4,
             "owner": "xiaoyuan1996",
             "repo": "AMFMN",
-            "stars": 217
+            "stars": 217,
+            "topics": [
+              "amfmn",
+              "attention-mechanism",
+              "crossmodal-retrieval",
+              "rsitmd"
+            ]
           },
           "first_seen": "2026-08-28T07:01:21.942Z"
         }
@@ -316,12 +444,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GeoGround: A Unified Large Vision-Language Model for Remote Sensing Visual Grounding",
+            "homepage": null,
             "id": 889290077,
             "language": null,
+            "license": null,
             "last_commit": "2025-05-10T15:59:01Z",
+            "open_issues": 5,
             "owner": "VisionXLab",
             "repo": "GeoGround",
-            "stars": 94
+            "stars": 94,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:01:21.942Z"
         },
@@ -332,12 +465,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[TGRS 2024] Language-Guided Progressive Attention for Visual Grounding in Remote Sensing Images.",
+            "homepage": null,
             "id": 669362473,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-06-10T13:55:56Z",
+            "open_issues": 3,
             "owner": "like413",
             "repo": "OPT-RSVG",
-            "stars": 57
+            "stars": 57,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:01:21.942Z"
         },
@@ -348,12 +486,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 630303219,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2025-01-24T03:32:47Z",
+            "open_issues": 3,
             "owner": "zhangjielu321",
             "repo": "Text2Seg",
-            "stars": 132
+            "stars": 132,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:01:21.942Z"
         },
@@ -364,12 +507,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RSVG: Exploring Data and Model for Visual Grounding on Remote Sensing Data, 2022",
+            "homepage": null,
             "id": 535246723,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-12-10T01:54:38Z",
+            "open_issues": 13,
             "owner": "ZhanYang-nwpu",
             "repo": "RSVG-pytorch",
-            "stars": 179
+            "stars": 179,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:01:21.942Z"
         }
@@ -386,12 +534,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "We proposed a Multiple-Step Question-Driven VQA (MQVQA) system to improve the reasoning and understanding ability in remote sensing VQA tasks in cases where questions focus on not only image scenes but also the relationship between objects. ",
+            "homepage": null,
             "id": 580699441,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-12-21T09:21:16Z",
+            "open_issues": 5,
             "owner": "MeimeiZhang-data",
             "repo": "MQVQA",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:01:21.942Z"
         },
@@ -402,12 +555,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 670047275,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-05-27T08:02:38Z",
+            "open_issues": 6,
             "owner": "Lavender105",
             "repo": "RSGPT",
-            "stars": 150
+            "stars": 151,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:01:21.942Z"
         },
@@ -418,12 +576,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[TGRS 2024] The official PyTorch implementation of the paper \"RSAdapter: Adapting Multimodal Models for Remote Sensing Visual Question Answering\".",
+            "homepage": null,
             "id": 880534443,
             "language": null,
+            "license": null,
             "last_commit": "2024-10-25T00:17:39Z",
+            "open_issues": 0,
             "owner": "Y-D-Wang",
             "repo": "RSAdapter",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:01:21.942Z"
         },
@@ -434,12 +597,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 529974423,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2023-02-17T09:34:50Z",
+            "open_issues": 2,
             "owner": "YZHJessica",
             "repo": "CDVQA",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:01:21.942Z"
         },
@@ -450,12 +618,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for paper \"From easy to hard: Learning language-guided curriculum for visual question answering on remote sensing data\"",
+            "homepage": null,
             "id": 600134587,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-02-10T18:21:31Z",
+            "open_issues": 2,
             "owner": "zhu-xlab",
             "repo": "VQA-easy2hard",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:01:21.942Z"
         },
@@ -466,12 +639,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Data set for the IEEE TGRS paper \"Mutual Attention Inception Network for Remote Sensing Visual Question Answering\"",
+            "homepage": null,
             "id": 314225051,
             "language": null,
+            "license": null,
             "last_commit": "2022-11-14T02:16:23Z",
+            "open_issues": 4,
             "owner": "spectralpublic",
             "repo": "RSIVQA",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:01:21.942Z"
         },
@@ -482,12 +660,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Data set for the IEEE TGRS paper \"Mutual Attention Inception Network for Remote Sensing Visual Question Answering\"",
+            "homepage": null,
             "id": 314225051,
             "language": null,
+            "license": null,
             "last_commit": "2022-11-14T02:16:23Z",
+            "open_issues": 4,
             "owner": "spectralpublic",
             "repo": "RSIVQA",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:01:21.942Z"
         },
@@ -498,12 +681,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 468671845,
             "language": "Jupyter Notebook",
+            "license": "GPL-3.0",
             "last_commit": "2022-03-11T08:47:51Z",
+            "open_issues": 1,
             "owner": "syvlo",
             "repo": "RSVQAxBEN",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:01:21.942Z"
         },
@@ -514,12 +702,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 468669101,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2023-03-13T08:18:23Z",
+            "open_issues": 1,
             "owner": "syvlo",
             "repo": "RSVQA",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:01:21.942Z"
         }
@@ -536,12 +729,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RS5M: a large-scale vision language dataset for remote sensing [TGRS]",
+            "homepage": null,
             "id": 655027902,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-03-17T03:05:40Z",
+            "open_issues": 4,
             "owner": "om-ai-lab",
             "repo": "RS5M",
-            "stars": 315
+            "stars": 315,
+            "topics": [
+              "foundation-models",
+              "remote-sensing",
+              "vision-and-language"
+            ]
           },
           "first_seen": "2026-08-28T07:01:21.942Z"
         },
@@ -552,12 +754,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official repo for \"SkyScript: A Large and Semantically Diverse Vision-Language Dataset for Remote Sensing\"",
+            "homepage": null,
             "id": 733467166,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-12-10T02:17:16Z",
+            "open_issues": 4,
             "owner": "wangzhecheng",
             "repo": "SkyScript",
-            "stars": 210
+            "stars": 210,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:01:21.942Z"
         },
@@ -568,12 +775,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Data set for the IEEE TGRS paper \"Mutual Attention Inception Network for Remote Sensing Visual Question Answering\"",
+            "homepage": null,
             "id": 314225051,
             "language": null,
+            "license": null,
             "last_commit": "2022-11-14T02:16:23Z",
+            "open_issues": 4,
             "owner": "spectralpublic",
             "repo": "RSIVQA",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:01:21.942Z"
         },
@@ -584,12 +796,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 529974423,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2023-02-17T09:34:50Z",
+            "open_issues": 2,
             "owner": "YZHJessica",
             "repo": "CDVQA",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:01:21.942Z"
         },
@@ -600,12 +817,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 670047275,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-05-27T08:02:38Z",
+            "open_issues": 6,
             "owner": "Lavender105",
             "repo": "RSGPT",
-            "stars": 150
+            "stars": 151,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:01:21.942Z"
         },
@@ -616,12 +838,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 670047275,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-05-27T08:02:38Z",
+            "open_issues": 6,
             "owner": "Lavender105",
             "repo": "RSGPT",
-            "stars": 150
+            "stars": 151,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:01:21.942Z"
         },
@@ -632,12 +859,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 486622072,
             "language": null,
+            "license": null,
             "last_commit": "2022-12-07T12:42:25Z",
+            "open_issues": 6,
             "owner": "HaiyanHuang98",
             "repo": "NWPU-Captions",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:01:21.942Z"
         }
@@ -654,12 +886,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome-Remote-Sensing-Vision-Language-Models",
+            "homepage": null,
             "id": 641034148,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-04-27T13:13:12Z",
+            "open_issues": 1,
             "owner": "lzw-lzw",
             "repo": "awesome-remote-sensing-vision-language-models",
-            "stars": 195
+            "stars": 195,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:01:21.942Z"
         },
@@ -670,12 +907,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of Remote Sensing Vision-Language Models",
+            "homepage": null,
             "id": 656522239,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-05-13T11:06:59Z",
+            "open_issues": 1,
             "owner": "om-ai-lab",
             "repo": "awesome-RSVLM",
-            "stars": 143
+            "stars": 143,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:01:21.942Z"
         },
@@ -686,12 +928,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of awesome remote sensing image captioning resources",
+            "homepage": null,
             "id": 637623251,
             "language": "Python",
+            "license": "CC0-1.0",
             "last_commit": "2026-08-21T16:41:29Z",
+            "open_issues": 0,
             "owner": "iOPENCap",
             "repo": "awesome-remote-image-captioning",
-            "stars": 124
+            "stars": 124,
+            "topics": [
+              "awesome",
+              "image-captioning",
+              "remote-sensing-image"
+            ]
           },
           "first_seen": "2026-08-28T07:01:21.942Z"
         },
@@ -702,12 +953,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Library for configurable combination of pre-configured and possibly pre-trained Image and Language Models",
+            "homepage": "https://lhackel-tub.github.io/ConfigILM/",
             "id": 595600173,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-04-24T10:04:05Z",
+            "open_issues": 9,
             "owner": "lhackel-tub",
             "repo": "ConfigILM",
-            "stars": 45
+            "stars": 45,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:01:21.942Z"
         }
@@ -716,15 +972,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T07:01:21.942Z",
+    "last_updated": "2026-08-29T04:23:22.726Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome vision and language resources for earth observation.",
+      "homepage": "https://geogroup.ai/",
       "id": 655796940,
       "language": null,
+      "license": "GPL-3.0",
       "last_commit": "2025-03-23T20:48:14Z",
+      "open_issues": 0,
       "owner": "geoaigroup",
       "repo": "awesome-vision-language-models-for-earth-observation",
-      "stars": 259
+      "stars": 259,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "earth-observation",
+        "multimodal-deep-learning",
+        "remote-sensing",
+        "vision-and-language"
+      ]
     },
     "original_repository_sha": "018fe88618b4ba97ee644edd8eebae5823ceac7d",
     "enhanced_repository": "enhansome/enhansome-vision-language-models-for-earth-observation",
