@@ -19,7 +19,7 @@
             "open_issues": 23,
             "owner": "ChenDelong1999",
             "repo": "RemoteCLIP",
-            "stars": 587,
+            "stars": 588,
             "topics": [
               "contrastive-language-image-pretraining",
               "remote-sensing",
@@ -107,7 +107,7 @@
             "open_issues": 47,
             "owner": "mbzuai-oryx",
             "repo": "GeoChat",
-            "stars": 744,
+            "stars": 745,
             "topics": [
               "remote-sensing",
               "vlm"
@@ -972,7 +972,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T01:29:51.861Z",
+    "last_updated": "2026-09-01T01:58:27.306Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome vision and language resources for earth observation.",
