@@ -2,7 +2,7 @@
 
 This list is created and maintained by [Ali Koteich](https://github.com/alikoteich) and [Hasan Moughnieh](https://geogroup.ai/author/hasan-moughnieh/) from the GEOspatial Artificial Intelligence ([GEOAI](https://geogroup.ai/)) research group at the National Center for Remote Sensing - CNRS, Lebanon.
 
-We encourage you to contribute to this project according to the following [guidelines](https://github.com/sindresorhus/awesome/blob/main/contributing.md) ⭐ 502,057 | 🐛 105 | 📅 2026-08-21.
+We encourage you to contribute to this project according to the following [guidelines](https://github.com/sindresorhus/awesome/blob/main/contributing.md) ⭐ 502,425 | 🐛 105 | 📅 2026-09-02.
 
 \---**If you find this repository useful, please consider giving it a ⭐**
 
@@ -76,7 +76,7 @@ We encourage you to contribute to this project according to the following [guide
 | 2023 | A Fusion Encoder with Multi-Task Guidance for Cross-Modal Text–Image Retrieval in Remote Sensing                 | [paper](https://www.mdpi.com/2072-4292/15/18/4637)                           |                                                                                                          | MDPI Remote Sensing                                 |
 | 2023 | An End-to-End Framework Based on Vision-Language Fusion for Remote Sensing Cross-Modal Text-Image Retrieval      | [paper](https://www.mdpi.com/2227-7390/11/10/2279)                           |                                                                                                          | MDPI Mathematics                                    |
 | 2023 | Contrasting Dual Transformer Architectures for Multi-Modal Remote Sensing Image Retrieval                        | [paper](https://www.mdpi.com/2076-3417/13/1/282)                             |                                                                                                          | MDPI Applied Sciences                               |
-| 2023 | Hypersphere-Based Remote Sensing Cross-Modal Text–Image Retrieval via Curriculum Learning                        | [paper](https://ieeexplore.ieee.org/document/10261223)                       | [code](https://github.com/ZhangWeihang99/HVSA) ⭐ 16 \| 🐛 2 \| 🌐 Python \| 📅 2024-08-10                | IEEE TGRS                                           |
+| 2023 | Hypersphere-Based Remote Sensing Cross-Modal Text–Image Retrieval via Curriculum Learning                        | [paper](https://ieeexplore.ieee.org/document/10261223)                       | [code](https://github.com/ZhangWeihang99/HVSA) ⭐ 16 \| 🐛 3 \| 🌐 Python \| 📅 2024-08-10                | IEEE TGRS                                           |
 | 2023 | Parameter-Efficient Transfer Learning for Remote Sensing Image-Text Retrieval                                    | [paper](https://ieeexplore.ieee.org/document/10231134)                       |                                                                                                          | IEEE TGRS                                           |
 | 2023 | Reducing Semantic Confusion: Scene-aware Aggregation Network for Remote Sensing Cross-modal Retrieval            | [paper](https://dl.acm.org/doi/abs/10.1145/3591106.3592236)                  | [code](https://github.com/kinshingpoon/SWAN-pytorch) ⭐ 6 \| 🐛 0 \| 🌐 Python \| 📅 2024-01-24           | ICMR'23                                             |
 | 2022 | A Lightweight Multi-Scale Crossmodal Text-Image Retrieval Method in Remote Sensing                               | [paper](https://ieeexplore.ieee.org/document/9594840)                        | [code](https://github.com/xiaoyuan1996/retrievalSystem) ⭐ 66 \| 🐛 0 \| 🌐 Python \| 📅 2022-06-26       | IEEE TGRS                                           |
@@ -171,7 +171,7 @@ We encourage you to contribute to this project according to the following [guide
 
 * [awesome-remote-sensing-vision-language-models](https://github.com/lzw-lzw/awesome-remote-sensing-vision-language-models) ⭐ 195 | 🐛 1 | 📅 2024-04-27
 * [awesome-RSVLM](https://github.com/om-ai-lab/awesome-RSVLM) ⭐ 143 | 🐛 1 | 📅 2024-05-13
-* [awesome-remote-image-captioning](https://github.com/iOPENCap/awesome-remote-image-captioning) ⭐ 124 | 🐛 0 | 🌐 Python | 📅 2026-08-21
+* [awesome-remote-image-captioning](https://github.com/iOPENCap/awesome-remote-image-captioning) ⭐ 124 | 🐛 0 | 🌐 Python | 📅 2026-09-02
 * [ConfigILM Library](https://github.com/lhackel-tub/ConfigILM) ⭐ 45 | 🐛 9 | 🌐 Python | 📅 2025-04-24
 
  <!-- 
@@ -182,4 +182,4 @@ We encourage you to contribute to this project according to the following [guide
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
