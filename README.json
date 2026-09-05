@@ -86,7 +86,7 @@
             "open_issues": 1,
             "owner": "opendatalab",
             "repo": "VHM",
-            "stars": 124,
+            "stars": 125,
             "topics": []
           },
           "first_seen": "2026-08-28T07:01:21.942Z"
@@ -107,7 +107,7 @@
             "open_issues": 47,
             "owner": "mbzuai-oryx",
             "repo": "GeoChat",
-            "stars": 748,
+            "stars": 749,
             "topics": [
               "remote-sensing",
               "vlm"
@@ -972,7 +972,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T01:11:34.689Z",
+    "last_updated": "2026-09-05T01:17:32.697Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome vision and language resources for earth observation.",

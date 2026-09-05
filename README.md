@@ -2,7 +2,7 @@
 
 This list is created and maintained by [Ali Koteich](https://github.com/alikoteich) and [Hasan Moughnieh](https://geogroup.ai/author/hasan-moughnieh/) from the GEOspatial Artificial Intelligence ([GEOAI](https://geogroup.ai/)) research group at the National Center for Remote Sensing - CNRS, Lebanon.
 
-We encourage you to contribute to this project according to the following [guidelines](https://github.com/sindresorhus/awesome/blob/main/contributing.md) ⭐ 502,728 | 🐛 106 | 📅 2026-09-02.
+We encourage you to contribute to this project according to the following [guidelines](https://github.com/sindresorhus/awesome/blob/main/contributing.md) ⭐ 503,033 | 🐛 106 | 📅 2026-09-02.
 
 \---**If you find this repository useful, please consider giving it a ⭐**
 
@@ -26,8 +26,8 @@ We encourage you to contribute to this project according to the following [guide
 | 2024 | RemoteCLIP: A Vision Language Foundation Model for Remote Sensing                                                    | [paper](https://arxiv.org/abs/2306.11029)        | [code](https://github.com/ChenDelong1999/RemoteCLIP) ⭐ 591 \| 🐛 23 \| 🌐 Jupyter Notebook \| 📅 2024-06-27 |       |
 | 2024 | Remote Sensing ChatGPT: Solving Remote Sensing Tasks with ChatGPT and Visual Models                                  | [paper](https://arxiv.org/abs/2401.09083)        | [code](https://github.com/HaonanGuo/Remote-Sensing-ChatGPT) ⭐ 242 \| 🐛 5 \| 🌐 Python \| 📅 2024-03-27     |       |
 | 2024 | SkyEyeGPT: Unifying Remote Sensing Vision-Language Tasks via Instruction Tuning with Large Language Model            | [paper](https://arxiv.org/abs/2401.09712)        | [code](https://github.com/ZhanYang-nwpu/SkyEyeGPT) ⭐ 139 \| 🐛 7 \| 📅 2025-12-01                           |       |
-| 2024 | VHM: Versatile and Honest Vision Language Model for Remote Sensing Image Analysis                                    | [paper](https://arxiv.org/abs/2403.20213)        | [code](https://github.com/opendatalab/VHM) ⭐ 124 \| 🐛 1 \| 🌐 Python \| 📅 2026-03-25                      |       |
-| 2023 | GeoChat: Grounded Large Vision-Language Model for Remote Sensing                                                     | [paper](https://arxiv.org/abs/2311.15826)        | [code](https://github.com/mbzuai-oryx/geochat) ⭐ 748 \| 🐛 47 \| 🌐 Python \| 📅 2024-11-28                 |       |
+| 2024 | VHM: Versatile and Honest Vision Language Model for Remote Sensing Image Analysis                                    | [paper](https://arxiv.org/abs/2403.20213)        | [code](https://github.com/opendatalab/VHM) ⭐ 125 \| 🐛 1 \| 🌐 Python \| 📅 2026-03-25                      |       |
+| 2023 | GeoChat: Grounded Large Vision-Language Model for Remote Sensing                                                     | [paper](https://arxiv.org/abs/2311.15826)        | [code](https://github.com/mbzuai-oryx/geochat) ⭐ 749 \| 🐛 47 \| 🌐 Python \| 📅 2024-11-28                 |       |
 | 2023 | Remote Sensing Vision-Language Foundation Models without Annotations via Ground Remote Alignment                     | [paper](https://export.arxiv.org/abs/2312.06960) |                                                                                                             |       |
 
 ## Image Captioning
@@ -182,4 +182,4 @@ We encourage you to contribute to this project according to the following [guide
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
