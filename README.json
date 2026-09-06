@@ -107,7 +107,7 @@
             "open_issues": 47,
             "owner": "mbzuai-oryx",
             "repo": "GeoChat",
-            "stars": 749,
+            "stars": 750,
             "topics": [
               "remote-sensing",
               "vlm"
@@ -564,7 +564,7 @@
             "open_issues": 6,
             "owner": "Lavender105",
             "repo": "RSGPT",
-            "stars": 151,
+            "stars": 149,
             "topics": []
           },
           "first_seen": "2026-08-28T07:01:21.942Z"
@@ -826,7 +826,7 @@
             "open_issues": 6,
             "owner": "Lavender105",
             "repo": "RSGPT",
-            "stars": 151,
+            "stars": 149,
             "topics": []
           },
           "first_seen": "2026-08-28T07:01:21.942Z"
@@ -847,7 +847,7 @@
             "open_issues": 6,
             "owner": "Lavender105",
             "repo": "RSGPT",
-            "stars": 151,
+            "stars": 149,
             "topics": []
           },
           "first_seen": "2026-08-28T07:01:21.942Z"
@@ -972,7 +972,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T01:17:32.697Z",
+    "last_updated": "2026-09-06T01:15:20.740Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome vision and language resources for earth observation.",
