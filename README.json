@@ -606,7 +606,7 @@
             "open_issues": 2,
             "owner": "YZHJessica",
             "repo": "CDVQA",
-            "stars": 14,
+            "stars": 15,
             "topics": []
           },
           "first_seen": "2026-08-28T07:01:21.942Z"
@@ -805,7 +805,7 @@
             "open_issues": 2,
             "owner": "YZHJessica",
             "repo": "CDVQA",
-            "stars": 14,
+            "stars": 15,
             "topics": []
           },
           "first_seen": "2026-08-28T07:01:21.942Z"
@@ -972,7 +972,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T01:19:39.801Z",
+    "last_updated": "2026-09-09T01:23:48.200Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome vision and language resources for earth observation.",
