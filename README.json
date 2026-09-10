@@ -44,7 +44,7 @@
             "open_issues": 5,
             "owner": "HaonanGuo",
             "repo": "Remote-Sensing-ChatGPT",
-            "stars": 242,
+            "stars": 241,
             "topics": []
           },
           "first_seen": "2026-08-28T07:01:21.942Z"
@@ -474,7 +474,7 @@
             "open_issues": 3,
             "owner": "like413",
             "repo": "OPT-RSVG",
-            "stars": 58,
+            "stars": 57,
             "topics": []
           },
           "first_seen": "2026-08-28T07:01:21.942Z"
@@ -564,7 +564,7 @@
             "open_issues": 6,
             "owner": "Lavender105",
             "repo": "RSGPT",
-            "stars": 150,
+            "stars": 149,
             "topics": []
           },
           "first_seen": "2026-08-28T07:01:21.942Z"
@@ -826,7 +826,7 @@
             "open_issues": 6,
             "owner": "Lavender105",
             "repo": "RSGPT",
-            "stars": 150,
+            "stars": 149,
             "topics": []
           },
           "first_seen": "2026-08-28T07:01:21.942Z"
@@ -847,7 +847,7 @@
             "open_issues": 6,
             "owner": "Lavender105",
             "repo": "RSGPT",
-            "stars": 150,
+            "stars": 149,
             "topics": []
           },
           "first_seen": "2026-08-28T07:01:21.942Z"
@@ -933,7 +933,7 @@
             "id": 637623251,
             "language": "Python",
             "license": "CC0-1.0",
-            "last_commit": "2026-09-02T19:20:04Z",
+            "last_commit": "2026-09-09T19:12:25Z",
             "open_issues": 0,
             "owner": "iOPENCap",
             "repo": "awesome-remote-image-captioning",
@@ -972,7 +972,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T01:23:48.200Z",
+    "last_updated": "2026-09-10T01:19:14.845Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome vision and language resources for earth observation.",
