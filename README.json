@@ -246,7 +246,7 @@
             "open_issues": 3,
             "owner": "IBM",
             "repo": "remote-sensing-image-retrieval",
-            "stars": 52,
+            "stars": 53,
             "topics": []
           },
           "first_seen": "2026-08-28T07:01:21.942Z"
@@ -453,7 +453,7 @@
             "open_issues": 5,
             "owner": "VisionXLab",
             "repo": "GeoGround",
-            "stars": 94,
+            "stars": 95,
             "topics": []
           },
           "first_seen": "2026-08-28T07:01:21.942Z"
@@ -738,7 +738,7 @@
             "open_issues": 4,
             "owner": "om-ai-lab",
             "repo": "RS5M",
-            "stars": 315,
+            "stars": 317,
             "topics": [
               "foundation-models",
               "remote-sensing",
@@ -933,7 +933,7 @@
             "id": 637623251,
             "language": "Python",
             "license": "CC0-1.0",
-            "last_commit": "2026-09-09T19:12:25Z",
+            "last_commit": "2026-09-10T19:03:52Z",
             "open_issues": 0,
             "owner": "iOPENCap",
             "repo": "awesome-remote-image-captioning",
@@ -972,7 +972,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T01:19:14.845Z",
+    "last_updated": "2026-09-11T01:22:09.376Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome vision and language resources for earth observation.",
