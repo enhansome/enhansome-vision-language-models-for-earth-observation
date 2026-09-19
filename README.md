@@ -2,7 +2,7 @@
 
 This list is created and maintained by [Ali Koteich](https://github.com/alikoteich) and [Hasan Moughnieh](https://geogroup.ai/author/hasan-moughnieh/) from the GEOspatial Artificial Intelligence ([GEOAI](https://geogroup.ai/)) research group at the National Center for Remote Sensing - CNRS, Lebanon.
 
-We encourage you to contribute to this project according to the following [guidelines](https://github.com/sindresorhus/awesome/blob/main/contributing.md) ⭐ 507,190 | 🐛 106 | 📅 2026-09-02.
+We encourage you to contribute to this project according to the following [guidelines](https://github.com/sindresorhus/awesome/blob/main/contributing.md) ⭐ 507,543 | 🐛 106 | 📅 2026-09-02.
 
 \---**If you find this repository useful, please consider giving it a ⭐**
 
@@ -171,7 +171,7 @@ We encourage you to contribute to this project according to the following [guide
 
 * [awesome-remote-sensing-vision-language-models](https://github.com/lzw-lzw/awesome-remote-sensing-vision-language-models) ⭐ 195 | 🐛 1 | 📅 2024-04-27
 * [awesome-RSVLM](https://github.com/om-ai-lab/awesome-RSVLM) ⭐ 143 | 🐛 1 | 📅 2024-05-13
-* [awesome-remote-image-captioning](https://github.com/iOPENCap/awesome-remote-image-captioning) ⭐ 124 | 🐛 0 | 🌐 Python | 📅 2026-09-13
+* [awesome-remote-image-captioning](https://github.com/iOPENCap/awesome-remote-image-captioning) ⭐ 124 | 🐛 0 | 🌐 Python | 📅 2026-09-18
 * [ConfigILM Library](https://github.com/lhackel-tub/ConfigILM) ⭐ 46 | 🐛 9 | 🌐 Python | 📅 2025-04-24
 
  <!-- 
@@ -182,4 +182,4 @@ We encourage you to contribute to this project according to the following [guide
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._

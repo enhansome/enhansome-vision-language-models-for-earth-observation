@@ -933,7 +933,7 @@
             "id": 637623251,
             "language": "Python",
             "license": "CC0-1.0",
-            "last_commit": "2026-09-13T18:42:31Z",
+            "last_commit": "2026-09-18T18:58:43Z",
             "open_issues": 0,
             "owner": "iOPENCap",
             "repo": "awesome-remote-image-captioning",
@@ -972,7 +972,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T01:23:53.227Z",
+    "last_updated": "2026-09-19T01:26:48.028Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome vision and language resources for earth observation.",
