@@ -2,7 +2,7 @@
 
 This list is created and maintained by [Ali Koteich](https://github.com/alikoteich) and [Hasan Moughnieh](https://geogroup.ai/author/hasan-moughnieh/) from the GEOspatial Artificial Intelligence ([GEOAI](https://geogroup.ai/)) research group at the National Center for Remote Sensing - CNRS, Lebanon.
 
-We encourage you to contribute to this project according to the following [guidelines](https://github.com/sindresorhus/awesome/blob/main/contributing.md) ⭐ 508,667 | 🐛 106 | 📅 2026-09-02.
+We encourage you to contribute to this project according to the following [guidelines](https://github.com/sindresorhus/awesome/blob/main/contributing.md) ⭐ 509,043 | 🐛 106 | 📅 2026-09-02.
 
 \---**If you find this repository useful, please consider giving it a ⭐**
 
@@ -123,7 +123,7 @@ We encourage you to contribute to this project according to the following [guide
 | 2021 | How to find a good image-text embedding for remote sensing visual question answering?                       | [paper](https://arxiv.org/abs/2109.11848)                      |                                                                                                | CEUR Workshop Proceedings                           |
 | 2021 | Mutual Attention Inception Network for Remote Sensing Visual Question Answering                             | [paper](https://ieeexplore.ieee.org/document/9444570)          | [code](https://github.com/spectralpublic/RSIVQA) ⭐ 22 \| 🐛 4 \| 📅 2022-11-14                 | IEEE TGRS                                           |
 | 2021 | RSVQA meets BigEarthNet: a new, large-scale, visual question answering dataset for remote sensing           | [paper](https://ieeexplore.ieee.org/document/9553307)          | [code](https://github.com/syvlo/RSVQAxBEN) ⭐ 5 \| 🐛 1 \| 🌐 Jupyter Notebook \| 📅 2022-03-11 | IEEE IGARSS                                         |
-| 2020 | RSVQA: Visual Question Answering for Remote Sensing Data                                                    | [paper](https://ieeexplore.ieee.org/abstract/document/9088993) | [code](https://github.com/syvlo/RSVQA) ⭐ 21 \| 🐛 1 \| 🌐 Python \| 📅 2023-03-13              | IEEE TGRS                                           |
+| 2020 | RSVQA: Visual Question Answering for Remote Sensing Data                                                    | [paper](https://ieeexplore.ieee.org/abstract/document/9088993) | [code](https://github.com/syvlo/RSVQA) ⭐ 22 \| 🐛 1 \| 🌐 Python \| 📅 2023-03-13              | IEEE TGRS                                           |
 
 ## Vision-Language Remote Sensing Datasets
 
@@ -182,4 +182,4 @@ We encourage you to contribute to this project according to the following [guide
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
