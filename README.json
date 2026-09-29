@@ -107,7 +107,7 @@
             "open_issues": 47,
             "owner": "mbzuai-oryx",
             "repo": "GeoChat",
-            "stars": 757,
+            "stars": 758,
             "topics": [
               "remote-sensing",
               "vlm"
@@ -972,7 +972,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T01:54:12.753Z",
+    "last_updated": "2026-09-29T02:40:01.000Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome vision and language resources for earth observation.",
