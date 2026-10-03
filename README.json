@@ -882,7 +882,7 @@
         {
           "node_type": "item",
           "title": "awesome-remote-sensing-vision-language-models",
-          "description": null,
+          "description": "lzw-lzw/awesome-remote-sensing-vision-language-models",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -903,7 +903,7 @@
         {
           "node_type": "item",
           "title": "awesome-RSVLM",
-          "description": null,
+          "description": "om-ai-lab/awesome-RSVLM",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -924,7 +924,7 @@
         {
           "node_type": "item",
           "title": "awesome-remote-image-captioning",
-          "description": null,
+          "description": "iOPENCap/awesome-remote-image-captioning",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -949,7 +949,7 @@
         {
           "node_type": "item",
           "title": "ConfigILM Library",
-          "description": null,
+          "description": "lhackel-tub/ConfigILM",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -972,7 +972,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T02:14:31.052Z",
+    "last_updated": "2026-10-03T05:15:45.579Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome vision and language resources for earth observation.",
