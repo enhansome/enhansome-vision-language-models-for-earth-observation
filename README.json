@@ -763,7 +763,7 @@
             "open_issues": 5,
             "owner": "wangzhecheng",
             "repo": "SkyScript",
-            "stars": 210,
+            "stars": 211,
             "topics": []
           },
           "first_seen": "2026-08-28T07:01:21.942Z"
@@ -972,7 +972,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:59:13.859Z",
+    "last_updated": "2026-10-07T02:37:16.288Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome vision and language resources for earth observation.",
