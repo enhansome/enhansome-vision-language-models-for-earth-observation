@@ -2,7 +2,7 @@
 
 This list is created and maintained by [Ali Koteich](https://github.com/alikoteich) and [Hasan Moughnieh](https://geogroup.ai/author/hasan-moughnieh/) from the GEOspatial Artificial Intelligence ([GEOAI](https://geogroup.ai/)) research group at the National Center for Remote Sensing - CNRS, Lebanon.
 
-We encourage you to contribute to this project according to the following [guidelines](https://github.com/sindresorhus/awesome/blob/main/contributing.md) ⭐ 516,380 | 🐛 106 | 📅 2026-09-02.
+We encourage you to contribute to this project according to the following [guidelines](https://github.com/sindresorhus/awesome/blob/main/contributing.md) ⭐ 516,820 | 🐛 106 | 📅 2026-09-02.
 
 \---**If you find this repository useful, please consider giving it a ⭐**
 
@@ -23,7 +23,7 @@ We encourage you to contribute to this project according to the following [guide
 | ---- | -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ | ----------------------------------------------------------------------------------------------------------- | ----- |
 | 2025 | Beyond the Visible: Multispectral Vision-Language Learning for Earth Observation                                     | [paper](https://arxiv.org/abs/2503.15969)        |                                                                                                             |       |
 | 2024 | EarthGPT: A Universal Multi-modal Large Language Model for Multi-sensor Image Comprehension in Remote Sensing Domain | [paper](https://arxiv.org/abs/2401.16822)        |                                                                                                             |       |
-| 2024 | RemoteCLIP: A Vision Language Foundation Model for Remote Sensing                                                    | [paper](https://arxiv.org/abs/2306.11029)        | [code](https://github.com/ChenDelong1999/RemoteCLIP) ⭐ 599 \| 🐛 24 \| 🌐 Jupyter Notebook \| 📅 2024-06-27 |       |
+| 2024 | RemoteCLIP: A Vision Language Foundation Model for Remote Sensing                                                    | [paper](https://arxiv.org/abs/2306.11029)        | [code](https://github.com/ChenDelong1999/RemoteCLIP) ⭐ 600 \| 🐛 24 \| 🌐 Jupyter Notebook \| 📅 2024-06-27 |       |
 | 2024 | Remote Sensing ChatGPT: Solving Remote Sensing Tasks with ChatGPT and Visual Models                                  | [paper](https://arxiv.org/abs/2401.09083)        | [code](https://github.com/HaonanGuo/Remote-Sensing-ChatGPT) ⭐ 241 \| 🐛 5 \| 🌐 Python \| 📅 2024-03-27     |       |
 | 2024 | SkyEyeGPT: Unifying Remote Sensing Vision-Language Tasks via Instruction Tuning with Large Language Model            | [paper](https://arxiv.org/abs/2401.09712)        | [code](https://github.com/ZhanYang-nwpu/SkyEyeGPT) ⭐ 139 \| 🐛 7 \| 📅 2025-12-01                           |       |
 | 2024 | VHM: Versatile and Honest Vision Language Model for Remote Sensing Image Analysis                                    | [paper](https://arxiv.org/abs/2403.20213)        | [code](https://github.com/opendatalab/VHM) ⭐ 125 \| 🐛 1 \| 🌐 Python \| 📅 2026-03-25                      |       |
@@ -100,7 +100,7 @@ We encourage you to contribute to this project according to the following [guide
 | 2024 | GeoGround: A Unified Large Vision-Language Model. for Remote Sensing Visual Grounding         | [paper](https://arxiv.org/abs/2411.11904)                                                                                           | [code](https://github.com/zytx121/GeoGround) ⭐ 96 \| 🐛 5 \| 📅 2025-05-10                             |           |
 | 2023 | LaLGA: Multi-Scale Language-Aware Visual Grounding on Remote Sensing Data                     | [paper](https://www.researchgate.net/publication/373146282_LaLGA_Multi-Scale_LanguageAware_Visual_Grounding_on_Remote_Sensing_Data) | [code](https://github.com/like413/OPT-RSVG) ⭐ 58 \| 🐛 3 \| 🌐 Python \| 📅 2025-06-10                 |           |
 | 2023 | Text2Seg: Remote Sensing Image Semantic Segmentation via Text-Guided Visual Foundation Models | [paper](https://arxiv.org/abs/2304.10597)                                                                                           | [code](https://github.com/Douglas2Code/Text2Seg) ⭐ 132 \| 🐛 3 \| 🌐 Jupyter Notebook \| 📅 2025-01-24 |           |
-| 2022 | RSVG: Exploring Data and Models for Visual Grounding on Remote Sensing Data                   | [paper](https://ieeexplore.ieee.org/document/10056343)                                                                              | [code](https://github.com/ZhanYang-nwpu/RSVG-pytorch) ⭐ 180 \| 🐛 13 \| 🌐 Python \| 📅 2025-12-10     | IEEE TGRS |
+| 2022 | RSVG: Exploring Data and Models for Visual Grounding on Remote Sensing Data                   | [paper](https://ieeexplore.ieee.org/document/10056343)                                                                              | [code](https://github.com/ZhanYang-nwpu/RSVG-pytorch) ⭐ 181 \| 🐛 13 \| 🌐 Python \| 📅 2025-12-10     | IEEE TGRS |
 | 2022 | Visual Grounding in Remote Sensing Images                                                     | [paper](https://dl.acm.org/doi/abs/10.1145/3503161.3548316)                                                                         |                                                                                                        | ACM MM    |
 
 ## Visual Question Answering
@@ -182,4 +182,4 @@ We encourage you to contribute to this project according to the following [guide
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
