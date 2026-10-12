@@ -16,7 +16,7 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2024-06-27T12:07:35Z",
-            "open_issues": 24,
+            "open_issues": 25,
             "owner": "ChenDelong1999",
             "repo": "RemoteCLIP",
             "stars": 600,
@@ -104,7 +104,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2024-11-28T12:05:13Z",
-            "open_issues": 47,
+            "open_issues": 48,
             "owner": "mbzuai-oryx",
             "repo": "GeoChat",
             "stars": 759,
@@ -735,7 +735,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-03-17T03:05:40Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "om-ai-lab",
             "repo": "RS5M",
             "stars": 322,
@@ -972,7 +972,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T02:04:38.588Z",
+    "last_updated": "2026-10-12T02:35:18.697Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome vision and language resources for earth observation.",
