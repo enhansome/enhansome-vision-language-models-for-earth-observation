@@ -19,7 +19,7 @@
             "open_issues": 25,
             "owner": "ChenDelong1999",
             "repo": "RemoteCLIP",
-            "stars": 600,
+            "stars": 601,
             "topics": [
               "contrastive-language-image-pretraining",
               "remote-sensing",
@@ -107,7 +107,7 @@
             "open_issues": 48,
             "owner": "mbzuai-oryx",
             "repo": "GeoChat",
-            "stars": 759,
+            "stars": 760,
             "topics": [
               "remote-sensing",
               "vlm"
@@ -763,7 +763,7 @@
             "open_issues": 5,
             "owner": "wangzhecheng",
             "repo": "SkyScript",
-            "stars": 211,
+            "stars": 212,
             "topics": []
           },
           "first_seen": "2026-08-28T07:01:21.942Z"
@@ -895,7 +895,7 @@
             "open_issues": 1,
             "owner": "lzw-lzw",
             "repo": "awesome-remote-sensing-vision-language-models",
-            "stars": 195,
+            "stars": 196,
             "topics": []
           },
           "first_seen": "2026-08-28T07:01:21.942Z"
@@ -972,7 +972,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T02:35:18.697Z",
+    "last_updated": "2026-10-13T03:45:12.847Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome vision and language resources for earth observation.",
