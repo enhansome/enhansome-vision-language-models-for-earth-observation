@@ -19,7 +19,7 @@
             "open_issues": 25,
             "owner": "ChenDelong1999",
             "repo": "RemoteCLIP",
-            "stars": 600,
+            "stars": 599,
             "topics": [
               "contrastive-language-image-pretraining",
               "remote-sensing",
@@ -738,7 +738,7 @@
             "open_issues": 6,
             "owner": "om-ai-lab",
             "repo": "RS5M",
-            "stars": 322,
+            "stars": 321,
             "topics": [
               "foundation-models",
               "remote-sensing",
@@ -763,7 +763,7 @@
             "open_issues": 5,
             "owner": "wangzhecheng",
             "repo": "SkyScript",
-            "stars": 212,
+            "stars": 211,
             "topics": []
           },
           "first_seen": "2026-08-28T07:01:21.942Z"
@@ -933,7 +933,7 @@
             "id": 637623251,
             "language": "Python",
             "license": "CC0-1.0",
-            "last_commit": "2026-10-13T21:08:01Z",
+            "last_commit": "2026-10-15T19:48:26Z",
             "open_issues": 0,
             "owner": "iOPENCap",
             "repo": "awesome-remote-image-captioning",
@@ -972,7 +972,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T01:41:31.439Z",
+    "last_updated": "2026-10-16T01:35:01.307Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome vision and language resources for earth observation.",
@@ -984,7 +984,7 @@
       "open_issues": 0,
       "owner": "geoaigroup",
       "repo": "awesome-vision-language-models-for-earth-observation",
-      "stars": 259,
+      "stars": 260,
       "topics": [
         "awesome",
         "awesome-list",
