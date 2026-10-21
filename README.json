@@ -107,7 +107,7 @@
             "open_issues": 48,
             "owner": "mbzuai-oryx",
             "repo": "GeoChat",
-            "stars": 760,
+            "stars": 759,
             "topics": [
               "remote-sensing",
               "vlm"
@@ -933,7 +933,7 @@
             "id": 637623251,
             "language": "Python",
             "license": "CC0-1.0",
-            "last_commit": "2026-10-17T18:20:49Z",
+            "last_commit": "2026-10-20T19:57:13Z",
             "open_issues": 0,
             "owner": "iOPENCap",
             "repo": "awesome-remote-image-captioning",
@@ -972,7 +972,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T02:00:10.155Z",
+    "last_updated": "2026-10-21T01:51:40.323Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome vision and language resources for earth observation.",
