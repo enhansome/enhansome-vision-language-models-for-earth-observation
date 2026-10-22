@@ -137,7 +137,7 @@
             "open_issues": 4,
             "owner": "Chen-Yang-Liu",
             "repo": "RSCaMa",
-            "stars": 81,
+            "stars": 82,
             "topics": [
               "change-captioning",
               "change-detection",
@@ -763,7 +763,7 @@
             "open_issues": 5,
             "owner": "wangzhecheng",
             "repo": "SkyScript",
-            "stars": 211,
+            "stars": 212,
             "topics": []
           },
           "first_seen": "2026-08-28T07:01:21.942Z"
@@ -933,7 +933,7 @@
             "id": 637623251,
             "language": "Python",
             "license": "CC0-1.0",
-            "last_commit": "2026-10-20T19:57:13Z",
+            "last_commit": "2026-10-21T20:01:31Z",
             "open_issues": 0,
             "owner": "iOPENCap",
             "repo": "awesome-remote-image-captioning",
@@ -972,7 +972,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T01:51:40.323Z",
+    "last_updated": "2026-10-22T01:42:19.279Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome vision and language resources for earth observation.",
