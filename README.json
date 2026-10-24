@@ -19,7 +19,7 @@
             "open_issues": 25,
             "owner": "ChenDelong1999",
             "repo": "RemoteCLIP",
-            "stars": 600,
+            "stars": 599,
             "topics": [
               "contrastive-language-image-pretraining",
               "remote-sensing",
@@ -65,7 +65,7 @@
             "open_issues": 7,
             "owner": "ZhanYang-nwpu",
             "repo": "SkyEyeGPT",
-            "stars": 139,
+            "stars": 140,
             "topics": []
           },
           "first_seen": "2026-08-28T07:01:21.942Z"
@@ -474,7 +474,7 @@
             "open_issues": 3,
             "owner": "like413",
             "repo": "OPT-RSVG",
-            "stars": 58,
+            "stars": 59,
             "topics": []
           },
           "first_seen": "2026-08-28T07:01:21.942Z"
@@ -933,7 +933,7 @@
             "id": 637623251,
             "language": "Python",
             "license": "CC0-1.0",
-            "last_commit": "2026-10-21T20:01:31Z",
+            "last_commit": "2026-10-23T19:53:57Z",
             "open_issues": 0,
             "owner": "iOPENCap",
             "repo": "awesome-remote-image-captioning",
@@ -972,7 +972,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T01:45:51.869Z",
+    "last_updated": "2026-10-24T01:50:48.485Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome vision and language resources for earth observation.",
