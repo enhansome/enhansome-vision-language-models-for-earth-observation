@@ -513,7 +513,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2025-12-10T01:54:38Z",
-            "open_issues": 13,
+            "open_issues": 14,
             "owner": "ZhanYang-nwpu",
             "repo": "RSVG-pytorch",
             "stars": 182,
@@ -972,7 +972,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T02:48:43.890Z",
+    "last_updated": "2026-10-31T02:39:07.685Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome vision and language resources for earth observation.",
