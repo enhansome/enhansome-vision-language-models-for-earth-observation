@@ -738,7 +738,7 @@
             "open_issues": 6,
             "owner": "om-ai-lab",
             "repo": "RS5M",
-            "stars": 321,
+            "stars": 322,
             "topics": [
               "foundation-models",
               "remote-sensing",
@@ -972,7 +972,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T02:41:06.879Z",
+    "last_updated": "2026-11-03T03:59:00.395Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome vision and language resources for earth observation.",
@@ -984,7 +984,7 @@
       "open_issues": 0,
       "owner": "geoaigroup",
       "repo": "awesome-vision-language-models-for-earth-observation",
-      "stars": 261,
+      "stars": 260,
       "topics": [
         "awesome",
         "awesome-list",
