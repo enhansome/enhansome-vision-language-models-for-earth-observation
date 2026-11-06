@@ -760,7 +760,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2024-12-10T02:17:16Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "wangzhecheng",
             "repo": "SkyScript",
             "stars": 213,
@@ -972,7 +972,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T03:38:24.274Z",
+    "last_updated": "2026-11-06T03:34:40.426Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome vision and language resources for earth observation.",
