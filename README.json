@@ -19,7 +19,7 @@
             "open_issues": 25,
             "owner": "ChenDelong1999",
             "repo": "RemoteCLIP",
-            "stars": 603,
+            "stars": 604,
             "topics": [
               "contrastive-language-image-pretraining",
               "remote-sensing",
@@ -972,7 +972,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T02:38:38.048Z",
+    "last_updated": "2026-11-09T02:54:22.915Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome vision and language resources for earth observation.",
