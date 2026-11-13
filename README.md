@@ -2,7 +2,7 @@
 
 This list is created and maintained by [Ali Koteich](https://github.com/alikoteich) and [Hasan Moughnieh](https://geogroup.ai/author/hasan-moughnieh/) from the GEOspatial Artificial Intelligence ([GEOAI](https://geogroup.ai/)) research group at the National Center for Remote Sensing - CNRS, Lebanon.
 
-We encourage you to contribute to this project according to the following [guidelines](https://github.com/sindresorhus/awesome/blob/main/contributing.md) ⭐ 535,444 | 🐛 103 | 📅 2026-09-02.
+We encourage you to contribute to this project according to the following [guidelines](https://github.com/sindresorhus/awesome/blob/main/contributing.md) ⭐ 536,018 | 🐛 103 | 📅 2026-09-02.
 
 \---**If you find this repository useful, please consider giving it a ⭐**
 
@@ -69,7 +69,7 @@ We encourage you to contribute to this project according to the following [guide
 
 | Year | Title                                                                                                            | Paper                                                                        | Code                                                                                                     | Venue                                               |
 | ---- | ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
-| 2024 | Composed Image Retrieval for Remote Sensing                                                                      | [paper](https://arxiv.org/abs/2405.15587)                                    | [code](https://github.com/billpsomas/rscir) ⭐ 87 \| 🐛 1 \| 🌐 Python \| 📅 2026-04-23                   |                                                     |
+| 2024 | Composed Image Retrieval for Remote Sensing                                                                      | [paper](https://arxiv.org/abs/2405.15587)                                    | [code](https://github.com/billpsomas/rscir) ⭐ 88 \| 🐛 1 \| 🌐 Python \| 📅 2026-04-23                   |                                                     |
 | 2024 | Multi-Spectral Remote Sensing Image Retrieval using Geospatial Foundation Models                                 | [paper](https://arxiv.org/abs/2403.02059)                                    | [code](https://github.com/IBM/remote-sensing-image-retrieval) ⭐ 53 \| 🐛 3 \| 🌐 Python \| 📅 2025-09-18 |                                                     |
 | 2024 | Transcending Fusion: A Multi-Scale Alignment Method for Remote Sensing Image-Text Retrieval                      | [paper](https://arxiv.org/abs/2405.18959)                                    | [code](https://github.com/yr666666/MSA)                                                                  |                                                     |
 | 2023 | A Prior Instruction Representation Framework for Remote Sensing Image-text Retrieval                             | [paper](https://dl.acm.org/doi/10.1145/3581783.3612374)                      | [code](https://github.com/Zjut-MultimediaPlus/PIR-pytorch) ⭐ 15 \| 🐛 1 \| 🌐 Python \| 📅 2023-12-08    | ACM MM 2023 (Oral)                                  |
@@ -182,4 +182,4 @@ We encourage you to contribute to this project according to the following [guide
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
