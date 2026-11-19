@@ -107,7 +107,7 @@
             "open_issues": 48,
             "owner": "mbzuai-oryx",
             "repo": "GeoChat",
-            "stars": 758,
+            "stars": 759,
             "topics": [
               "remote-sensing",
               "vlm"
@@ -211,7 +211,7 @@
             "open_issues": 1,
             "owner": "billpsomas",
             "repo": "rscir",
-            "stars": 88,
+            "stars": 89,
             "topics": [
               "composed-image-retrieval",
               "computer-vision",
@@ -738,7 +738,7 @@
             "open_issues": 6,
             "owner": "om-ai-lab",
             "repo": "RS5M",
-            "stars": 324,
+            "stars": 325,
             "topics": [
               "foundation-models",
               "remote-sensing",
@@ -972,7 +972,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T04:38:45.424Z",
+    "last_updated": "2026-11-19T04:23:51.681Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome vision and language resources for earth observation.",
